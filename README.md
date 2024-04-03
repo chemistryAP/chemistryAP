@@ -4,6 +4,7 @@ To be brief, my name is Derek Ngo, co 2026 of Patrick Henry Highschool.
 
 I code sometimes.
 
+Html, css, javascript, java
 
 <!--
 **chemistryAP/chemistryAP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
